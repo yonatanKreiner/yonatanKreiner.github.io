@@ -1,6 +1,4 @@
 # The Cayman theme
-[![.github/workflows/ci.yaml](https://github.com/yonatanKreiner/yonatanKreiner.github.io/actions/workflows/ci.yaml/badge.svg)](https://github.com/yonatanKreiner/yonatanKreiner.github.io/actions/workflows/ci.yaml)
-
 [![pages-build-deployment](https://github.com/yonatanKreiner/yonatanKreiner.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/yonatanKreiner/yonatanKreiner.github.io/actions/workflows/pages/pages-build-deployment)
 
 *Cayman is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/cayman), or even [use it today](#usage).*
